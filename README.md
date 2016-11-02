@@ -1,7 +1,7 @@
 # Txt-cutter
 Cut the txt file to more txt files.
 
-Imput:
+Input:
 Config.txt
 
 Output:
